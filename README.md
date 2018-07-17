@@ -1,5 +1,5 @@
 # jenkins-git
 
-A simple project to test jenkins git integration
+A simple project to test jenkins git integration...
 
 And it should be triggered by ANY change
